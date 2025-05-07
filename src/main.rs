@@ -1,6 +1,8 @@
 mod c1;
 mod c2;
+mod c3;
 
 fn main() {
-    c2::guessing_game::guessing_game()
+    c3::variables::variables();
+    c3::variables::shadowing();
 }
