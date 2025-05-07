@@ -1,5 +1,6 @@
 mod c1;
+mod c2;
 
 fn main() {
-    c1::hello_world::hello_world();
+    c2::guessing_game::guessing_game()
 }
