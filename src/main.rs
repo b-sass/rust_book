@@ -1,7 +1,8 @@
 mod c1;
 mod c2;
 mod c3;
+mod c4;
 
 fn main() {
-    c3::control_flow::fizz_buzz();
+    c4::ownership::suffix_copy();
 }
