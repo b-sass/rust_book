@@ -3,6 +3,5 @@ mod c2;
 mod c3;
 
 fn main() {
-    c3::variables::variables();
-    c3::variables::shadowing();
+    c3::data_types::compound();
 }
