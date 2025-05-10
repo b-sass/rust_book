@@ -4,5 +4,5 @@ mod c3;
 mod c4;
 
 fn main() {
-    c4::ownership::suffix_copy();
+    c4::references::borrowing();
 }
