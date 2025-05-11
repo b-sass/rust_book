@@ -5,5 +5,5 @@ mod c4;
 mod c5;
 
 fn main() {
-    c5::structs::tuple_structs();
+    c5::area::area_struct();
 }
